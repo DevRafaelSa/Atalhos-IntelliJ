@@ -7,12 +7,12 @@ Alt + Shift + Insert: Alterna entre modo de seleção de linha/coluna
 Ctrl + Shift + F12: Expandir a tela
 
 
-<h3>Na aba de projetos</h3>
+<h2>Na aba de projetos</h2>
 
 Alt + Insert: Para criar um novo arquivo
 
 
-Templates de código
+<h2>Templates de código</h2>
 
 Ctrl + Alt + C: Cria constante (precisa estar sobre código que permite atribuição)
 
@@ -26,7 +26,7 @@ Ctrl + J: Exibe todos os templates disponíveis
 
 
 
-Na aba de código
+<h2> Na aba de código </h2>
 
 
 Ctrl + Y: Apaga a linha inteira
