@@ -6,9 +6,11 @@ Alt + 1: Focar aba de projetos
 Alt + Shift + Insert: Alterna entre modo de seleção de linha/coluna
 Ctrl + Shift + F12: Expandir a tela
 
-Na aba de projetos
+
+<h1>Na aba de projetos<h1>
 
 Alt + Insert: Para criar um novo arquivo
+
 
 Templates de código
 
@@ -23,7 +25,9 @@ Ctrl + Alt + T: Templates de IF, for, while, etc (precisa selecionar o código a
 Ctrl + J: Exibe todos os templates disponíveis
 
 
+
 Na aba de código
+
 
 Ctrl + Y: Apaga a linha inteira
 
