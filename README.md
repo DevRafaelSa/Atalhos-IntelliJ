@@ -12,22 +12,31 @@ Alt + Insert: Para criar um novo arquivo
 
 Templates de código
 
-psvm: Criar método main
-sout: System.out.println()
 Ctrl + Alt + C: Cria constante (precisa estar sobre código que permite atribuição)
+
 Ctrl + Alt + F: Cria field - propriedade da classe (precisa estar sobre código que permite atribuição)
+
 Ctrl + Alt + V: Cria variável (precisa estar sobre código que permite atribuição)
+
 Ctrl + Alt + T: Templates de IF, for, while, etc (precisa selecionar o código antes)
+
 Ctrl + J: Exibe todos os templates disponíveis
+
 
 Na aba de código
 
 Ctrl + Y: Apaga a linha inteira
+
 Ctrl + D: Duplicar linha atual
+
 Alt + Shift + Setas: Mover linha atual
+
 Ctrl + Shift + Setas: Mover linha atual mantendo contexto
+
 Ctrl + Shift + A: Find Action - mostra todas as ações da IDE em uma lista
+
 Ctrl + N: Busca rápida de classes
+
 Ctrl + Shift + N: Busca rápida de arquivos
 Ctrl + B: Inspecionar elemento - go to class, method, declaration, etc
 Ctrl + Alt + L: Reformatar código
