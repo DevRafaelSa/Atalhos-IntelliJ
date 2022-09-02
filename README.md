@@ -7,7 +7,7 @@ Alt + Shift + Insert: Alterna entre modo de seleção de linha/coluna
 Ctrl + Shift + F12: Expandir a tela
 
 
-<h1>Na aba de projetos<h1>
+<h3>Na aba de projetos</h3>
 
 Alt + Insert: Para criar um novo arquivo
 
