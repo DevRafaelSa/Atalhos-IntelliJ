@@ -1,9 +1,12 @@
 # Atalhos-IntelliJ
 Atalhos para facilitar a navegação na Idea IntelliJ
-Geral
+
+<h2>Geral</h2>
 
 Alt + 1: Focar aba de projetos
+
 Alt + Shift + Insert: Alterna entre modo de seleção de linha/coluna
+
 Ctrl + Shift + F12: Expandir a tela
 
 
