@@ -14,6 +14,10 @@ Alt + Insert: Para criar um novo arquivo
 
 <h2>Templates de código</h2>
 
+psvm: Criar método main
+
+sout: System.out.println()
+
 Ctrl + Alt + C: Cria constante (precisa estar sobre código que permite atribuição)
 
 Ctrl + Alt + F: Cria field - propriedade da classe (precisa estar sobre código que permite atribuição)
